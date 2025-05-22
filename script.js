@@ -1,12 +1,12 @@
 const messages = [
-    "chat are u sure?",
-    "nah i think u made a mistake",
-    "say yes aanvi",
-    "ur clicking no fro the sake of it",
+    "i promised i wouldnt do it again",
+    "i really love u",
+    "i unfollowed it",
+    "i found a soluton for us to be together for longer",
     "try again",
-    "ur acc a monkey pick again",
-    "please aanvi",
-    "stop being autistic im running out of responses.",
+    "i made a very detaield game plan!",
+    "i promise u im gonna make u happy",
+    "ur never gonna have to worry again",
     "fine ill stop asking",
     "jk, say yes please aanvi! ❤️"
 ];
